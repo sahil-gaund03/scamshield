@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+datasets/processed/
+ml/models/
+ml/vectorizers/
+catboost_info/
+ml/logs/
+*.log
+
+.env
+.DS_Store
